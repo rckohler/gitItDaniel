@@ -1,0 +1,20 @@
+Begin Object Class=/Script/Engine.Material Name="hedgehod_trap"
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=0.108000,G=0.070004,B=0.050328,A=0.000000)
+      ExpressionGUID=24769185453CE07F63F8B29344469F34
+      MaterialExpressionGuid=3223154845AACE72A84623B49F3A0ADC
+      Material=Material'hedgehod_trap'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Expressions(0)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=6A366A144088E9F36DF64ABE875F8C5D
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=D47F28D04FA63C97F32979A99EE30E1B
+End Object

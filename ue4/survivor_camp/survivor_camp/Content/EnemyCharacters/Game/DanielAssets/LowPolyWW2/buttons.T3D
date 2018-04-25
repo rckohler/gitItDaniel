@@ -1,0 +1,21 @@
+Begin Object Class=/Script/Engine.Material Name="buttons"
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=0.077000,G=0.065414,B=0.028105,A=0.000000)
+      ExpressionGUID=B588818145F61C1D40881DBED6C45782
+      MaterialExpressionGuid=CF959C4141552C665A09D8979A42C9B3
+      Material=Material'buttons'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   bUsedWithSkeletalMesh=True
+   Expressions(0)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=01A18DF84C87DAE55D2691A7C31F4C93
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=2063574F436A54AEA994B6BCDE1805DF
+End Object

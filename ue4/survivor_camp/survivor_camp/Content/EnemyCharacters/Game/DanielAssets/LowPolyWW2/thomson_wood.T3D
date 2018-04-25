@@ -1,0 +1,21 @@
+Begin Object Class=/Script/Engine.Material Name="thomson_wood"
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=0.198069,G=0.088656,B=0.033105,A=0.000000)
+      ExpressionGUID=C106D7BB4623AD87BB8131A7DDBE5F2A
+      MaterialExpressionGuid=57ACB51C44A4A93940C57E8A967602EA
+      Material=Material'thomson_wood'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   bUsedWithSkeletalMesh=True
+   Expressions(0)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=194313C24F873AF5987DBE83D7658EFE
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=DB902D964E0565BAF605A8996A23B77B
+End Object

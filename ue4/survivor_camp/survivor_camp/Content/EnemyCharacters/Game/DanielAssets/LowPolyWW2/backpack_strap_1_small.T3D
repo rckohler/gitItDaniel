@@ -1,0 +1,21 @@
+Begin Object Class=/Script/Engine.Material Name="backpack_strap_1_small"
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=0.337164,G=0.208637,B=0.114435,A=0.000000)
+      ExpressionGUID=10532AC744E52389BC38CF88500DEA30
+      MaterialExpressionGuid=D380DC5D47C71AFB7E2E7BAE61E56EB6
+      Material=Material'backpack_strap_1_small'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   bUsedWithSkeletalMesh=True
+   Expressions(0)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=7E0D705349DF90E280725A8005FA243B
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=9E32620F4A2C5B9FEA7D9687810168FF
+End Object

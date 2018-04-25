@@ -1,0 +1,21 @@
+Begin Object Class=/Script/Engine.Material Name="pants"
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=0.147029,G=0.099897,B=0.035602,A=0.000000)
+      ExpressionGUID=CA669BBE4B3FB05C8BD560A8F1FE8A84
+      MaterialExpressionGuid=167C83964C42E132F26E46A68DAF4DBA
+      Material=Material'pants'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   bUsedWithSkeletalMesh=True
+   Expressions(0)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=A3CCCD72491212D07803238F9A6511D9
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=602DF4F546C2DC57C9958D82027433E2
+End Object

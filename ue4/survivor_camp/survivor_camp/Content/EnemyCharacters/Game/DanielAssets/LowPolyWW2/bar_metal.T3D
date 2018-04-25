@@ -1,0 +1,20 @@
+Begin Object Class=/Script/Engine.Material Name="bar_metal"
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=0.084416,G=0.084416,B=0.084416,A=0.000000)
+      ExpressionGUID=B42E52F24F53BF724EE4B281D1F721F3
+      MaterialExpressionGuid=0E45E40C4BA14C5B3E13FAAF70BA20A4
+      Material=Material'bar_metal'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Expressions(0)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=25C590D84B01685BD6FB3BB497DAC172
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=8B0F3D5642282749B70A13AE50B42EBF
+End Object

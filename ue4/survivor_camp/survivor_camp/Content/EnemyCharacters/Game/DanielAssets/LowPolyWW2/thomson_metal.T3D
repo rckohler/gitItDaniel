@@ -1,0 +1,21 @@
+Begin Object Class=/Script/Engine.Material Name="thomson_metal"
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=0.026500,G=0.030000,B=0.029400,A=0.000000)
+      ExpressionGUID=B9AB5D284D808DBC54B1B48CA2ED42A6
+      MaterialExpressionGuid=DEFFDF594AAB2864532751950BAF57C8
+      Material=Material'thomson_metal'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   bUsedWithSkeletalMesh=True
+   Expressions(0)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=F55F71424398E266D839E8B8D3AA18D6
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=C4CB44044A692ACC9835EE802B8CA693
+End Object

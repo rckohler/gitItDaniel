@@ -1,0 +1,21 @@
+Begin Object Class=/Script/Engine.Material Name="bottle_cap"
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=0.071429,G=0.071429,B=0.071429,A=0.000000)
+      ExpressionGUID=BE442E4D438A4E43E7F90CBDD68F9142
+      MaterialExpressionGuid=B3D7F20D4A4E2D1D4C3418B6686D9D7D
+      Material=Material'bottle_cap'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   bUsedWithSkeletalMesh=True
+   Expressions(0)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=A517D23F43650CC3C3EB4D814E464FE8
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=9A429545403A005577451C95BC6C9C02
+End Object

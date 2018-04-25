@@ -1,0 +1,21 @@
+Begin Object Class=/Script/Engine.Material Name="U_S__Font"
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=0.019481,G=0.019481,B=0.019481,A=0.000000)
+      ExpressionGUID=DDB5049148DDC5987EAB58AD330ADB84
+      MaterialExpressionGuid=B2F84DC048915275232C2193C1575F27
+      Material=Material'U_S__Font'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   bUsedWithSkeletalMesh=True
+   Expressions(0)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=A4B600B94B280D1D9576E8B8C1262E49
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=ABE32D8443D538A8CDF745A0212E23DE
+End Object

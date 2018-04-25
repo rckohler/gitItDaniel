@@ -1,0 +1,20 @@
+Begin Object Class=/Script/Engine.Material Name="barbed_wire_metal"
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=0.831169,G=0.831169,B=0.831169,A=0.000000)
+      ExpressionGUID=6B10AB274E2017AC7A106D9D28FA1512
+      MaterialExpressionGuid=E621DEF04BDCD2599F5099975262CEE2
+      Material=Material'barbed_wire_metal'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Expressions(0)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=BA00A98F4D5016B3A2D5B3BFA236F58C
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=FC0E763F46CE53D97B8E12A8A1D26C8F
+End Object

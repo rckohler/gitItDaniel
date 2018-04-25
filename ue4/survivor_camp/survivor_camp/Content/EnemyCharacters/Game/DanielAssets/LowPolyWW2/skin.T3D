@@ -1,0 +1,21 @@
+Begin Object Class=/Script/Engine.Material Name="skin"
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=0.811000,G=0.499998,B=0.438751,A=0.000000)
+      ExpressionGUID=67A9E8314E8C5FEE68DA8F9542406CC6
+      MaterialExpressionGuid=90F6212340F739A7609A8E9AE70A13DF
+      Material=Material'skin'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   bUsedWithSkeletalMesh=True
+   Expressions(0)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=E179382346E8269D30CE3B829FB802DB
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=881C847B4B30A972073F5DAEE9BA9AC2
+End Object

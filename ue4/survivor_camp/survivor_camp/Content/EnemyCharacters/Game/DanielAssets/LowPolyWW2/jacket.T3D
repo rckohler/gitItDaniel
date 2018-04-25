@@ -1,0 +1,21 @@
+Begin Object Class=/Script/Engine.Material Name="jacket"
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=0.220000,G=0.181529,B=0.057640,A=0.000000)
+      ExpressionGUID=34F61C2145CA12DC6D033898B5971E1A
+      MaterialExpressionGuid=42CB8FD846CC97AFEB738C8C23FC80EA
+      Material=Material'jacket'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   bUsedWithSkeletalMesh=True
+   Expressions(0)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=09DF367C443DCF3D962D8BB9C0C3F0DE
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=CDFF211D4E843DDE230CB39B734E2E53
+End Object

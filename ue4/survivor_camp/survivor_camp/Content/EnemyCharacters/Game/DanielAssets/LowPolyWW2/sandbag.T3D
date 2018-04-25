@@ -1,0 +1,20 @@
+Begin Object Class=/Script/Engine.Material Name="sandbag"
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=0.761800,G=0.518600,B=0.237400,A=0.000000)
+      ExpressionGUID=048ADE16483E7FD24E203C819F9807C9
+      MaterialExpressionGuid=0A0756484B8918F68F7432BC015D860E
+      Material=Material'sandbag'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Expressions(0)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=662594654547A954CEAD8CADD5E0B18D
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=2EE4A5BB424151E0BF89CDA92F115633
+End Object

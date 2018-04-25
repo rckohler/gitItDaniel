@@ -1,0 +1,21 @@
+Begin Object Class=/Script/Engine.Material Name="backpack_clip"
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=0.051948,G=0.051948,B=0.051948,A=0.000000)
+      ExpressionGUID=2F08FA2E42F77E886072EEA18BDB4A93
+      MaterialExpressionGuid=FCDAB3AE4A3C999796AD0896F6EB1D3B
+      Material=Material'backpack_clip'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   bUsedWithSkeletalMesh=True
+   Expressions(0)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=005ED22E48C7DD01CB47EA942501EB18
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=D944E3884283BA7E05651F9600261E67
+End Object

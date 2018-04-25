@@ -1,0 +1,20 @@
+Begin Object Class=/Script/Engine.Material Name="stone_block1"
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=0.259740,G=0.259740,B=0.259740,A=0.000000)
+      ExpressionGUID=A9B7CC734391E2150DBFD6B28A480A03
+      MaterialExpressionGuid=2D95ED394A6460112D45BF92529F1B74
+      Material=Material'stone_block1'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Expressions(0)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=15F189554A8FC15D340760B18721C5E0
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=B569CC924B009E89AF31078DA7FFA15F
+End Object

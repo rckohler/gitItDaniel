@@ -1,0 +1,21 @@
+Begin Object Class=/Script/Engine.Material Name="eye_blue"
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=0.067100,G=0.088000,B=0.178300,A=0.000000)
+      ExpressionGUID=B211797546EA8CCE1BAA918F4F019C5B
+      MaterialExpressionGuid=98339AA24C290DA623BD91A10E9BCA01
+      Material=Material'eye_blue'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   bUsedWithSkeletalMesh=True
+   Expressions(0)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=A341C78F43C1F1FA56EB708C46C99CA3
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=76EB5EDC4EA2C40D8E0638AF32D50FC8
+End Object

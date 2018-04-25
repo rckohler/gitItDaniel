@@ -1,0 +1,21 @@
+Begin Object Class=/Script/Engine.Material Name="belt_buckle"
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=0.030000,G=0.030000,B=0.017850,A=0.000000)
+      ExpressionGUID=88F36C684FA7C2DC82E2E8BE56FD03B8
+      MaterialExpressionGuid=02E9985E47D29FA317E8FCAD67EF166E
+      Material=Material'belt_buckle'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   bUsedWithSkeletalMesh=True
+   Expressions(0)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=A0351C9E441383EF3FF1DDB240D48BAD
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=E74C59644853A72E8A0DD6940E77EF63
+End Object

@@ -1,0 +1,20 @@
+Begin Object Class=/Script/Engine.Material Name="phong1"
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=0.500000,G=0.500000,B=0.500000,A=0.000000)
+      ExpressionGUID=EACF26D24A817ED449CA7CA9B52EBF54
+      MaterialExpressionGuid=72C115EE4A35BEA703727CA9DC7EE772
+      Material=Material'phong1'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Expressions(0)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=7FF9151049993BFB3E97529929ED8238
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=C964254B4368DCFED439BB86170ED1B2
+End Object

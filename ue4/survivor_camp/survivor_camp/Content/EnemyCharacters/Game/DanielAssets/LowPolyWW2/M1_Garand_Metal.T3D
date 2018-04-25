@@ -1,0 +1,20 @@
+Begin Object Class=/Script/Engine.Material Name="M1_Garand_Metal"
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=0.064935,G=0.064935,B=0.064935,A=0.000000)
+      ExpressionGUID=8A4B8B464E915CEA5F1B1DA83915873B
+      MaterialExpressionGuid=7699B5874FDF49C425A59B9C6B8FBDD3
+      Material=Material'M1_Garand_Metal'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Expressions(0)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=80A53A41409FF9A5D9B1F9B25F557400
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=1EB53A1B40585B52367D139FFCACDD74
+End Object

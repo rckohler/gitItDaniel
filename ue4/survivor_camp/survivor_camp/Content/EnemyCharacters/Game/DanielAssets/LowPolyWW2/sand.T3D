@@ -1,0 +1,23 @@
+Begin Object Class=/Script/Engine.Material Name="sand"
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=0.768151,G=0.693872,B=0.533276,A=1.000000)
+      ExpressionGUID=048ADE16483E7FD24E203C819F9807C9
+      MaterialExpressionGuid=0A0756484B8918F68F7432BC015D860E
+      Material=Material'sand'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   EditorX=240
+   EditorY=-32
+   Expressions(0)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0'
+   ParameterGroupData(0)=(GroupName="None")
+   bCanMaskedBeAssumedOpaque=True
+   StateId=099DCA6442E1F7C69A4343BC99D330E9
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=0E932FF7420A81CD5AB2ECBC37AD6472
+End Object

@@ -1,0 +1,21 @@
+Begin Object Class=/Script/Engine.Material Name="bottle_pouch"
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=0.251910,G=0.197598,B=0.063065,A=0.000000)
+      ExpressionGUID=9644421544EB6020C0CF4E9E34B8F123
+      MaterialExpressionGuid=89232B1D4DE1AAB6A677D6A8E187ADC8
+      Material=Material'bottle_pouch'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   bUsedWithSkeletalMesh=True
+   Expressions(0)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=351A576A4A12DB0AF31C568767FC415A
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=653383754B7171ACA333EE8B84803F3B
+End Object

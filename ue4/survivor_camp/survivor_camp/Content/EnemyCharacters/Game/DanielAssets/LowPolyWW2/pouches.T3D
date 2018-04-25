@@ -1,0 +1,21 @@
+Begin Object Class=/Script/Engine.Material Name="pouches"
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=0.461039,G=0.361639,B=0.115420,A=0.000000)
+      ExpressionGUID=6595571A42731874CD68C9BC48CCA673
+      MaterialExpressionGuid=B58922FB490AF7EB9185FCA935651134
+      Material=Material'pouches'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   bUsedWithSkeletalMesh=True
+   Expressions(0)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=71C6C6B44AA3DABD4E373BB7D4761A30
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=4707F55042501F9D89C83E83C15A1D5D
+End Object

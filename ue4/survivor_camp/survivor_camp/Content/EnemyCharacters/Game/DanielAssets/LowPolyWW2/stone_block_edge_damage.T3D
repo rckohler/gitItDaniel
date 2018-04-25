@@ -1,0 +1,20 @@
+Begin Object Class=/Script/Engine.Material Name="stone_block_edge_damage"
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=0.428571,G=0.428571,B=0.428571,A=0.000000)
+      ExpressionGUID=2B10842A41F4BED0BE1BC597082D5AD1
+      MaterialExpressionGuid=9C9978DC4601E38A8A73EC932174AF76
+      Material=Material'stone_block_edge_damage'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Expressions(0)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=96FF51814488999233E955971665CB59
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=E7A862E34B9BCB18C8EBCF86E267FED4
+End Object

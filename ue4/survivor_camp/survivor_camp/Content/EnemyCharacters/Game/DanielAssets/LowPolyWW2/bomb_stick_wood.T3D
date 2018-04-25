@@ -1,0 +1,20 @@
+Begin Object Class=/Script/Engine.Material Name="bomb_stick_wood"
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=0.115000,G=0.087521,B=0.068655,A=0.000000)
+      ExpressionGUID=D08891714789C5663B012FA79D4CA01E
+      MaterialExpressionGuid=DDE38A9F4F57FB19510024B811772CB6
+      Material=Material'bomb_stick_wood'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Expressions(0)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=5EC710C94B1AE0A39E0268A7EB81BC3A
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=11840DBB4890B9716514378681DC9875
+End Object

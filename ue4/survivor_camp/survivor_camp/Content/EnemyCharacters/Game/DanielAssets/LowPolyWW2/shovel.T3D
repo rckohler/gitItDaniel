@@ -1,0 +1,21 @@
+Begin Object Class=/Script/Engine.Material Name="shovel"
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=0.183000,G=0.162899,B=0.136518,A=0.000000)
+      ExpressionGUID=B5D607884DFBC5C5CFA15AA05DD456C2
+      MaterialExpressionGuid=505BB3904DEAA3BF03BDC59BF3ABB56D
+      Material=Material'shovel'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   bUsedWithSkeletalMesh=True
+   Expressions(0)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=8E6613B14598920CF440139067E8DB43
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=0828C15642A6189CFB526B805F04E1CF
+End Object

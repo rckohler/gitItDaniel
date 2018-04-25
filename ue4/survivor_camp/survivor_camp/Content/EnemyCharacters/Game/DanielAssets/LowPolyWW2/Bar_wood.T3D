@@ -1,0 +1,20 @@
+Begin Object Class=/Script/Engine.Material Name="Bar_wood"
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=0.078391,G=0.044651,B=0.029310,A=0.000000)
+      ExpressionGUID=EA005C4342B7C4E64069C2999CF31521
+      MaterialExpressionGuid=A9CBE2A148B564B087B88D8EA849B92E
+      Material=Material'Bar_wood'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Expressions(0)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=406E270F461B4287B2462AB61E21F27E
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=F37D7F6B402942B96FF230A72C4F100A
+End Object

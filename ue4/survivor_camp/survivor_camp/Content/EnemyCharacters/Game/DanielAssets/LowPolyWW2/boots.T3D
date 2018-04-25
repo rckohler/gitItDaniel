@@ -1,0 +1,21 @@
+Begin Object Class=/Script/Engine.Material Name="boots"
+   Begin Object Class=/Script/Engine.MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_0"
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_0"
+      DefaultValue=(R=0.059513,G=0.027321,B=0.014444,A=0.000000)
+      ExpressionGUID=2A94482949C669F126C3D18E185B39F0
+      MaterialExpressionGuid=2BEFA8AD49D6C83F3CD80EAAC0473E79
+      Material=Material'boots'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   bUsedWithSkeletalMesh=True
+   Expressions(0)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_0'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=F8CF894A45E3B0D2931A7FAFD6B2CAAE
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=A900B9F34D758C534AE2A9BD07FF5FC5
+End Object
